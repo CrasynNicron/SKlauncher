@@ -22,7 +22,7 @@ A vossa preciosa ajuda será reconhecida.
 Obrigado desde já!
 
 <!-- URLs -->
-[guia-url]: <https://docs.skmedix.pl/category/contributions>
+[guide-url]: <https://docs.skmedix.pl/category/contributions>
 [discord-url]: <https://discord.gg/BdCcpDZ>
 [github-url]: <https://www.github.com/skmedix/SKlauncher>
 [site-url]: <https://skmedix.pl>
