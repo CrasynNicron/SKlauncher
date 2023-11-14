@@ -1,28 +1,28 @@
-<img src="https://skmedix.pl/images/logo.png" alt="SKlauncher logo" align="right" width="256" height="256"/>
+<img src="https://skmedix.pl/images/logo.png" alt="Logótipo do SKlauncher" align="right" width="256" height="256"/>
 
 # SKlauncher #
 
-[![SKlauncher Website][site-shield]][site-url]
-[![Discord Server][discord-shield]][discord-url]
+[![Website do SKlauncher][site-shield]][site-url]
+[![Servidor do Discord][discord-shield]][discord-url]
 [![GitHub Forks][github-shield]][github-url]
 
-[SKlauncher][site-url] is a game launcher for
-the game Minecraft: Java Edition.
+[SKlauncher][site-url] é um lançador de jogos para
+o jogo Minecraft: Java Edition.
 
-This repo hosts translation files for SKlauncher.
+Este repositório aloja ficheiros de tradução para o SKlauncher.
 
-## Contributing ##
+## Contribuir ##
 
-Thank you for your interest in translating SKlauncher!
+Obrigado pelo seu interesse em traduzir o SKlauncher!
 
-Please check out the [Contributions Guide][guide-url],
-which explains what to do step by step.
+Por favor, consulte o [Guia de contribuições][guide-url],
+que explica o que fazer passo a passo.
 
-You will be given credit for your precious help.
-Thank you in advance!
+A vossa preciosa ajuda será reconhecida.
+Obrigado desde já!
 
 <!-- URLs -->
-[guide-url]: <https://docs.skmedix.pl/category/contributions>
+[guia-url]: <https://docs.skmedix.pl/category/contributions>
 [discord-url]: <https://discord.gg/BdCcpDZ>
 [github-url]: <https://www.github.com/skmedix/SKlauncher>
 [site-url]: <https://skmedix.pl>
